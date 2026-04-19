@@ -1,4 +1,4 @@
-# Iskinita Billiard House — Website
+# Eskinita Billiard House — Website
 
 Static one-pager for a casual billiard house in Puerto Princesa. Pure HTML + CSS, no build step.
 
@@ -44,6 +44,6 @@ All UI decisions come from `DESIGN.md` (Wise-inspired). Key rules:
 
 ## Notes
 
-- Name on Facebook is **"Eskinita Billiard House"** (with E). Folder uses the user-preferred "Iskinita" spelling. Update `index.html` if you want to match FB exactly.
+- Site uses **"Eskinita"** spelling to match the Facebook page. (Local folder name is still `Iskinita-Billiard` — internal only, doesn't affect the site.)
 - Facebook link used: `https://www.facebook.com/profile.php?id=61575438718374`
 - No assets — all visuals (pool balls, layout) are pure CSS.
